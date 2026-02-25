@@ -3,6 +3,49 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 10: Advanced Prompting Techniques 🧠))
+    📚 Section 1: Why Basic Prompting Isnt Enough
+      1.1 The Limits of Direct Answering
+      1.2 The Reasoning Gap
+    📚 Section 2: Chain-of-Thought CoT Prompting
+      2.1 What is CoT?
+      2.2 Zero-Shot CoT
+      2.3 Few-Shot CoT
+      2.4 Structured CoT with XML Tags
+    📚 Section 3: Tree-of-Thought ToT
+      3.1 Beyond Linear Chains
+      3.2 Simple ToT Implementation
+    📚 Section 4: ReAct Framework
+      4.1 What is ReAct?
+      4.2 ReAct with Tool Simulation
+    📚 Section 5: Self-Consistency Decoding
+      5.1 The Concept
+    📚 Section 6: Prompt Injection & Security
+      6.1 What is Prompt Injection?
+      6.2 Types of Prompt Injection
+      6.3 Defenses Against Prompt Injection
+    💻 Full Lab: Multi-Step Reasoning System
+    🎯 Mini Project: Logic Puzzle Solver
+    🧠 Quiz: Day 10 — Advanced Prompting
+    📊 Key Takeaways
+    📖 Further Reading
+      Essential Papers
+      On Prompt Security
+    🔄 Whats Next: Day 11 Preview
+    Section 7: DSPy - Programming, Not Prompting 2025 Update
+      7.1 The Problem with Prompting
+      7.2 The DSPy Philosophy
+      7.3 Building a DSPy Pipeline
+      7.4 Compiling: Let AI Write the Prompt
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

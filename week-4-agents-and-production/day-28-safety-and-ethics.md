@@ -3,6 +3,40 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 28: Safety, Ethics & Responsible AI 🛡️))
+    📚 Section 1: The AI Safety Landscape
+      1.1 What Can Go Wrong?
+      1.2 Defense Layers
+    📚 Section 2: Guardrails — Input Validation
+      2.1 OpenAI Moderation API
+      2.2 Custom Input Guardrails
+    📚 Section 3: Output Guardrails
+    📚 Section 4: Privacy, Bias & Ethics
+      4.1 Privacy Checklist
+      4.2 Bias Detection
+    🧠 Quiz: Day 28
+    📊 Key Takeaways
+    🎉 Week 4 Complete!
+    🔄 Whats Next: Capstone Projects Days 29–30
+    Section 6: Advanced Safety Techniques
+      6.1 Prompt Injection Defense In Depth
+      6.2 Content Safety Filter with Multiple Dimensions
+      6.3 Bias Detection and Mitigation
+    Section 7: Privacy-Preserving AI
+      7.1 PII Detection and Anonymization
+    Extended Lab: Complete Safety-First API
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

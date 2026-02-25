@@ -3,6 +3,43 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 26: MLOps for GenAI 📊))
+    📚 Section 1: Why MLOps Matters for GenAI
+      1.1 The Observability Problem
+      1.2 The GenAI MLOps Stack
+    📚 Section 2: LangSmith — Tracing & Evaluation
+      2.1 Setup
+      2.2 What LangSmith Captures Automatically
+      2.3 Manual Tracing with Decorators
+      2.4 Creating an Evaluation Dataset
+      2.5 Running Automated Evaluation
+    📚 Section 3: Cost & Token Monitoring
+    📚 Section 4: Prompt Version Control
+    🧠 Quiz: Day 26
+    📊 Key Takeaways
+    Section 6: Advanced LangSmith Usage
+      6.1 Automated Testing with LangSmith
+      6.2 Experiment Tracking with MLflow
+    Section 7: Cost Optimization Strategies
+      7.1 Intelligent Model Routing
+      7.2 Prompt Caching Configuration
+    Section 8: Infrastructure as Code for GenAI
+      8.1 Docker Configuration
+      8.2 Docker Compose for Local Development
+      8.3 CI/CD Pipeline
+    Section 9: A/B Testing LLM Models
+      9.1 Feature Flags and Gradual Rollout
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

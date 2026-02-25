@@ -24,6 +24,55 @@ Today you go from "understanding attention in theory" to "understanding how atte
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 05 — Attention Mechanisms: Deep Dive))
+    🤔 The Bottleneck Nobody Talks About
+    📚 Theory — Part 1: The History of Attention 45 min
+      5.1 Where Attention Began: Bahdanau Attention 2014
+      5.2 Luong Attention 2015: Simplification
+      5.3 Self-Attention 2017: The Key Innovation
+    📚 Theory — Part 2: Modern Attention Variants 60 min
+      5.4 Multi-Query Attention MQA — Mistral, Falcon
+      5.5 Grouped Query Attention GQA — LLaMA 2/3, Mistral
+      5.6 The KV Cache — Understanding LLM Inference Efficiency
+      5.7 FlashAttention — GPU Memory Revolution
+      5.8 Sparse Attention — Achieving Long Contexts
+      5.9 Linear Attention — ON Complexity
+      5.10 Ring Attention — Distributed Long Contexts
+    💻 Labs 90 min
+      Lab 5.1: Implementing Multiple Attention Variants
+      Lab 5.2: KV Cache Simulation
+      Lab 5.3: Extracting and Visualizing Attention from BERT
+      Lab 5.4: Calculating Context Window Memory Requirements
+    🎯 Quiz 10 Questions
+    🏋️ Assignments
+      Assignment 5.1: BERT Attention Pattern Analysis
+      Assignment 5.2: KV Cache Implementation in a Generative Model
+      Assignment 5.3: FlashAttention Benchmarking
+    📖 Further Reading
+      Papers
+      Blogs & Tutorials
+      Tools
+    🎯 Extended Mini-Quiz — Attention Deep Dive
+    🏋️ Assignments
+      Assignment 5.1: KV Cache Implementation
+      Assignment 5.2: Attention Pattern Visualization
+      Assignment 5.3: Flash vs Standard Attention Benchmark
+      Assignment 5.4: Positional Encoding Comparison
+    💡 Glossary — Day 5
+    ⚡ Day 5 Summary
+    🔗 Day 6 Preview
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today you will:

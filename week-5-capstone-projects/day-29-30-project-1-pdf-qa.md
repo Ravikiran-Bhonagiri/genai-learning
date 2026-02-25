@@ -30,6 +30,50 @@ To solve these issues, you will build a highly sophisticated, multi-layered pipe
 **Estimated Time:** 15-20 Hours
 
 ---
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day Concepts))
+    🚀 1. Project Overview & Theological Underpinnings
+      1.1 Why Naive RAG Fails in Production
+      1.2 The 2025 Enterprise RAG Solution
+    📋 2. Comprehensive Table of Contents
+    🏗️ 3. Advanced Architecture Design <a name=architecture-design></a>
+      Architectural Component Diagram
+      Architectural Decisions Justified:
+    🧮 4. Deep Dive: The Mathematics of Hybrid Search <a name=math-hybrid></a>
+      4.1 Vector Similarity Cosine Distance
+      4.2 BM25 Best Matching 25
+      4.3 The Resolution: Reciprocal Rank Fusion RRF
+    💻 5. Prerequisites & Environment Setup <a name=prerequisites></a>
+      5.1 System Requirements
+      5.2 Python Ecosystem Installation Protocol
+      5.3 Environment Variable Configuration
+      5.4 Acquiring the Dataset
+    🛠️ 6. Phase 1: Deep Dive into Semantic Ingestion <a name=phase-1></a>
+      6.1 How Semantic Chunking Works
+      6.2 Implementation of `ingest.py`
+    🔍 7. Phase 2: Hybrid Retrieval & Re-ranking Orchestration <a name=phase-2></a>
+      7.1 Implementation of `retrieve.py`
+    🤖 8. Phase 3: Generation & FastAPI Construction <a name=phase-3></a>
+      8.1 Implementation of `app.py` The Backend Server
+    🖥️ 9. Phase 4: Building the Streamlit UI <a name=phase-4></a>
+      9.1 Build the Interface
+      9.2 Launch the Web App
+    ☁️ 10. Phase 5: Cloud Deployment on AWS ECS <a name=phase-5></a>
+    ⚖️ 11. Phase 6: RAGAS Evaluation Metrics Deep Dive <a name=phase-6></a>
+      11.1 The Mathematics of Faithfulness Hallucination Detection
+      11.2 The Mathematics of Context Precision Reranker Grading
+    🛠️ 12. Troubleshooting & Debugging Guide <a name=troubleshooting></a>
+    🎓 13. Submission & Grading Rubric <a name=grading></a>
+      Comprehensive Grading Criteria 100 Points Total
+    🌟 14. Expert Extension: GraphRAG Innovation For Honors <a name=extensions></a>
+```
+
+
+---
+
 
 ## 📋 2. Comprehensive Table of Contents
 1.  [Project Overview \& Theological Underpinnings](#overview)

@@ -19,6 +19,31 @@ You will build an Enterprise Serving Gateway that implements the Three Pillars o
 **Estimated Time:** 20+ Hours
 
 ---
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day Concepts))
+    🚀 1. Project Overview & Theological Underpinnings
+    📋 2. Comprehensive Table of Contents
+    🏗️ 3. Advanced Architecture Flow Diagram <a name=architecture-design></a>
+      The 2025 Production Stack
+      Architectural Decisions Justified:
+    🧮 4. Deep Dive: Mathematics of vLLM & PagedAttention <a name=math-vllm></a>
+      4.1 The Memory Bottleneck of Generation
+      4.2 How PagedAttention Solves This
+    💻 5. Prerequisites & Container Ecosystem Setup <a name=prerequisites></a>
+    ⚙️ 6. Phase 1: Bootstrapping vLLM Local OpenAI Engines <a name=phase-1></a>
+    🧠 7. Phase 2: Implementing Sub-5ms Redis Caching <a name=phase-2></a>
+    🔀 8. Phase 3: Building the Semantic Router Gateway <a name=phase-3></a>
+    📊 9. Phase 4: Building the Streamlit Telemetry Dashboard <a name=phase-4></a>
+    🎓 11. Submission & Grading Rubric <a name=grading></a>
+      Grading Criteria 100 Points Total
+```
+
+
+---
+
 
 ## 📋 2. Comprehensive Table of Contents
 1.  [Project Overview & Theological Underpinnings](#overview)

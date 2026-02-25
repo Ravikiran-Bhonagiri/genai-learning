@@ -3,6 +3,43 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 22: AI Agents Introduction 🤖))
+    📚 Section 1: What Is an AI Agent?
+      1.1 The Core Idea
+      1.2 The Four Core Components
+      1.3 Real-World Agent Examples
+    📚 Section 2: ReAct — Reasoning + Acting
+      2.1 The ReAct Framework
+      2.2 Setup
+      2.3 Your First Agent
+    📚 Section 3: Building Custom Tools
+      3.1 Tools Are Just Python Functions
+      3.2 Stateful Tools with Databases
+    📚 Section 4: LangGraph — Stateful Agents
+      4.1 Why LangGraph?
+    💻 Full Lab: Personal Research Agent
+    🧠 Quiz: Day 22
+    📊 Key Takeaways
+    Section 6: LangGraph for Stateful Agents
+      6.1 LangGraph Core Concepts
+      6.2 Agent with Persistent Memory
+    Section 7: Custom Agent Tools Deep Dive
+      7.1 Building Robust Tools with Error Handling
+      7.2 Tool Result Formatting for Agents
+    Section 8: Agent Observability
+      8.1 Tracing Agent Execution
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

@@ -3,6 +3,36 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 10b: The Ultimate Deep Dive into DSPy 🧐))
+    📚 Section 1: Why DSPy Matters in 2025
+      1.1 The Fragility of Manual Prompt Engineering
+      1.2 The PyTorch Analogy
+      1.3 Before and After: The Paradigm Shift
+    🟢 Section 2: EASY EXAMPLE — Context-Aware Sentiment Analysis
+      2.1 The Signature The Contract
+      2.2 The Module The Execution
+      2.3 Compiling the Module Optimization
+    🟡 Section 3: MEDIUM EXAMPLE — Retrieval-Augmented Generation RAG with Citations
+      3.1 Defining the RAG Signatures
+      3.2 Building the Pipeline Module
+      3.3 Evaluating the RAG Pipeline
+    🔴 Section 4: COMPLEX EXAMPLE — The Multi-Hop Baleen Agent
+      4.1 The Signatures for Sub-tasking
+      4.2 The Iterative Agent Module
+    🟣 Section 5: ADVANCED 2025 FEATURE — Assertions & Suggestions
+      5.1 Hard vs. Soft Constraints
+      5.2 Building a Self-Refining Name Extractor
+      Why Assertions Change Everything
+    🏆 Section 6: Summary & Best Practices
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of this deep dive, you will be able to:

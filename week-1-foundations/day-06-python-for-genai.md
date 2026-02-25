@@ -20,6 +20,45 @@ Think of today as equipping your workshop. The transformer theory was reading th
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 06 — Python & Key Libraries for Generative AI))
+    🤔 The Gap Between Understanding and Building
+    📚 Theory: The GenAI Python Stack 30 min
+      6.1 The Essential Library Hierarchy
+      6.2 Why Each Library Matters
+      6.3 Token Budgeting — A Critical Practical Skill
+    💻 Lab 1: NumPy for GenAI 45 min
+      Lab 6.1: Essential NumPy Operations
+      Lab 6.2: PyTorch Tensor Operations
+      Lab 6.3: Hugging Face Ecosystem
+      Lab 6.4: OpenAI SDK Mastery
+      Lab 6.5: Using tiktoken for Context Management
+    🎯 Quiz 10 Questions
+    🏋️ Assignments
+      Assignment 6.1: Tokenizer Comparison Tool
+      Assignment 6.2: Multi-Model Chatbot Interface
+      Assignment 6.3: Embedding Search Engine
+    📖 Further Reading
+      Documentation
+      Tutorials
+      Cost Optimization
+    🎯 Extended Mini-Quiz — Python & GenAI Libraries
+    🏋️ Assignments
+      Assignment 6.1: Production OpenAI Client
+      Assignment 6.2: Batch Inference with Hugging Face
+      Assignment 6.3: Custom Dataset + Evaluation Pipeline
+      Assignment 6.4: Token Budget Manager
+    💡 Glossary — Day 6
+    ⚡ Day 6 Summary
+    🔗 Day 7 Preview
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today you will:

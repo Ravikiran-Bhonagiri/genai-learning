@@ -3,6 +3,46 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 12: Memory & Context Management 🧠))
+    📚 Section 1: The Stateless Problem
+      1.1 LLMs Have No Memory by Default
+      1.2 The Solution: Include History in Every Request
+      1.3 The Context Window Problem
+    📚 Section 2: LangChain Memory Types
+      2.1 ConversationBufferMemory
+      2.2 ConversationSummaryMemory
+      2.3 ConversationBufferWindowMemory
+      2.4 Token-Aware Memory Best for Production
+    📚 Section 3: Long-Term Memory with Vector Stores
+      3.1 Why Vector-Based Memory?
+    📚 Section 4: Entity Memory
+    💻 Full Lab: Stateful Chatbot with Multiple Memory Types
+    🎯 Mini Project: Personal AI Assistant with Memory
+    🧠 Quiz: Day 12 — Memory & Context Management
+    📊 Key Takeaways
+    📖 Further Reading
+    🔄 Whats Next: Day 13 Preview
+    Section 6: Advanced Memory Patterns
+      6.1 Conversation Summary Buffer Memory
+      6.2 Implementing Custom Memory Classes
+      6.3 Redis-Backed Persistent Memory
+    Section 7: Memory for RAG Systems
+      7.1 Combining Vector Memory with Conversation History
+      7.2 Multi-Session Memory Management
+    Extended Practice Exercises
+      Exercise 1: Implement Token-Budget Memory
+      Exercise 2: Memory with Time Decay
+      Exercise 3: Multi-Modal Memory
+      Exercise 4: Memory Compression Pipeline
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

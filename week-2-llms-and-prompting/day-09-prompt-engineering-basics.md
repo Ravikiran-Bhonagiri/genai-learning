@@ -3,6 +3,73 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 9: Prompt Engineering Basics 🎯))
+    📚 Section 1: What Is Prompt Engineering?
+      1.1 The Prompt is Your Interface
+      1.2 Why Prompting Matters More Than You Think
+      1.3 The Rise of Prompt Engineering as a Discipline
+    📚 Section 2: The Anatomy of a Prompt
+      2.1 Core Components
+      2.2 System vs. User Prompts
+      2.3 Tokens: The Currency of LLMs
+    📚 Section 3: Zero-Shot, One-Shot, and Few-Shot Prompting
+      3.1 Zero-Shot Prompting
+      3.2 One-Shot Prompting
+      3.3 Few-Shot Prompting
+      3.4 When to Use Each
+    📚 Section 4: Role & Persona Prompting
+      4.1 Why Roles Work
+      4.2 Basic Role Examples
+      4.3 Advanced Persona Design
+      4.4 Negative Constraints in Personas
+    📚 Section 5: Prompt Templates & Variables
+      5.1 Python String Templates
+      5.2 PromptTemplate with LangChain
+      5.3 Structured Prompt Library
+    🔴 Critical Issues must fix
+    🟡 Improvements should fix
+    🟢 Positives
+    📝 Refactored Example
+    Summary Score: Correctness X/10, Performance X/10, Security X/10,
+    📌 Core Concepts 5-7 key concepts with clear definitions
+    🧠 Mental Models & Analogies 2-3 intuitive analogies
+    ⚡ Quick Reference Card cheat sheet format
+    ❓ Active Recall Questions 10 questions: recall + apply + synthesize
+    🔗 Concept Map ASCII diagram
+    📚 Recommended Resources beginner + intermediate + advanced,
+    📚 Section 6: Output Format Control
+      6.1 Instructing Specific Formats
+      6.2 Controlling Response Length
+    📚 Section 7: Common Prompting Anti-Patterns
+      7.1 The Vagueness Trap
+      7.2 The Negative Instruction Pitfall
+      7.3 Overloaded Prompts
+      7.4 Ignoring Training Cutoff
+      7.5 Ambiguous Instructions
+    💻 Lab: Building a Prompt Template Library
+      Complete Lab Code
+    🎯 Mini Project: Specialized Chatbot
+      Requirements
+      Starter Code
+    🧠 Quiz: Day 9 — Prompt Engineering Basics
+    📊 Key Takeaways
+    📖 Further Reading
+      Essential Papers
+      Official Guides
+      Free Courses
+    🔄 Whats Next: Day 10 Preview
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

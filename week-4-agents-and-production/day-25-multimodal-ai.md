@@ -3,6 +3,42 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 25: Multimodal AI 🎨))
+    📚 Section 1: Vision — GPT-4o for Image Understanding
+      1.1 What Can Vision Models See?
+      1.2 Basic Vision Analysis
+      1.3 Multi-Image Analysis
+      1.4 OCR — Read Text from Images
+    📚 Section 2: Image Generation with DALL·E 3
+      2.1 Basic Image Generation
+      2.2 Image Editing Variations and Inpainting
+    📚 Section 3: Audio — Whisper for STT and TTS
+      3.1 Speech-to-Text with Whisper
+      3.2 Text-to-Speech
+    💻 Full Lab: Multimodal Content Analyzer
+    🧠 Quiz: Day 25
+    📊 Key Takeaways
+    Section 6: Advanced Vision Capabilities
+      6.1 Structured Image Analysis
+      6.2 Multi-Image Comparison
+      6.3 Document OCR and Extraction
+    Section 7: Audio with Whisper & TTS
+      7.1 Advanced Whisper Usage
+      7.2 Text-to-Speech with Voice Cloning ElevenLabs
+    Section 8: DALL-E 3 Advanced Usage
+      8.1 Consistent Character Generation
+    Extended Lab: Voice-Powered Document Q&A
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

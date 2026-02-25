@@ -21,6 +21,35 @@ Furthermore, we abandon manual "Prompt Engineering" (e.g., typing "You are a hel
 **Estimated Time:** 20-25 Hours
 
 ---
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day Concepts))
+    🚀 1. Project Overview & Theological Underpinnings
+    📋 2. Comprehensive Table of Contents
+    🏗️ 3. Advanced Architecture Flow Diagram <a name=architecture-design></a>
+      The Cyclic Graph Architecture
+      Architectural Decisions Justified:
+    🧮 4. Deep Dive: The Mathematics of DSPy Optimization <a name=math-dspy></a>
+      4.1 Signatures and Predictors
+      4.2 The Teleprompter Optimizer
+    ⚖️ 5. Deep Dive: LangGraph State Trapping <a name=math-langgraph></a>
+      5.1 The State Dictionary
+      5.2 Conditional Mathematical Routing
+    💻 6. Prerequisites & Environment Setup <a name=prerequisites></a>
+    🛠️ 7. Phase 1: Compiling Agents with DSPy <a name=phase-1></a>
+    🧠 8. Phase 2: Defining the Financial State Machine <a name=phase-2></a>
+    🏗️ 9. Phase 3: Assembling the LangGraph Engine <a name=phase-3></a>
+    🖥️ 10. Phase 4: Building the Streamlit Multi-Agent Dashboard <a name=phase-4></a>
+    🛠️ 11. Troubleshooting Graph States & Recursion Limits <a name=troubleshooting></a>
+    🎓 12. Submission & Grading Rubric <a name=grading></a>
+      Grading Criteria 100 Points Total
+```
+
+
+---
+
 
 ## 📋 2. Comprehensive Table of Contents
 1.  [Project Overview \& Theological Underpinnings](#overview)

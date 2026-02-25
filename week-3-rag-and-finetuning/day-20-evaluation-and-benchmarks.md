@@ -3,6 +3,43 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 20: Evaluation & Benchmarks 📏))
+    📚 Section 1: Why Evaluation Is Hard for GenAI
+      1.1 The Evaluation Problem
+      1.2 Evaluation Taxonomy
+    📚 Section 2: Text Similarity Metrics
+      2.1 BLEU — Bilingual Evaluation Understudy
+      2.2 ROUGE — Recall-Oriented Understudy
+      2.3 BERTScore — Semantic Similarity
+      2.4 Choosing the Right Metric
+    📚 Section 3: LLM-as-Judge
+      3.1 Why LLM Judges Work
+    📚 Section 4: RAGAS for RAG Evaluation
+    💻 Full Lab: Evaluation Pipeline
+    📚 Section 5: LLM Benchmarks Overview
+    🧠 Quiz: Day 20
+    📊 Key Takeaways
+    Section 5: LLM-as-Judge Evaluation
+      5.1 GPT-4 as a Judge
+      5.2 Pairwise Comparison A/B Testing
+    Section 6: GovEval and RAGAS
+      6.1 RAGAS Metrics Deep Dive
+      6.2 Building a Custom Evaluation Framework
+    Section 7: Cost-Aware Evaluation
+      7.1 Benchmarking with Cost Tracking
+    Extended Lab: Build an Automated Eval Pipeline
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

@@ -31,6 +31,50 @@ By the end, you'll understand not just *what* each architecture does but *why* i
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 03 — Neural Network Architectures: The Road to Transformers))
+    🤔 A Puzzle to Open Your Mind
+    📚 Part 1: Convolutional Neural Networks — Eyes That Learn 45 min
+      3.1 The Biological Motivation
+      3.2 The Convolution Operation — The Core Trick
+      3.3 Multiple Filters = Multiple Feature Detectors
+      3.4 Pooling — Spatial Compression
+      3.5 A Full CNN Architecture
+      3.6 The ResNet Revolution — Skip Connections
+      3.7 CNNs in GenAI
+    📚 Part 2: Recurrent Neural Networks — Memory for Sequences 30 min
+      3.8 The Problem: Order Matters
+      3.9 How an RNN Works
+      3.10 The Vanishing Gradient Problem — RNNs Fatal Flaw
+    📚 Part 3: LSTM — Engineering Around the Fundamental Flaw 30 min
+      3.11 The LSTM Solution — Gated Memory
+      3.12 GRU — LSTMs Lighter Sibling
+      3.13 Why Transformers Won
+    💻 Lab Time: Build All Three Architecture Types 90 min
+      Lab 3.1: CNN for Image Classification MNIST
+      Lab 3.2: Vanilla RNN vs LSTM — Sequence Tasks
+      Lab 3.3: Understanding the Vanishing Gradient
+      Lab 3.4: Architecture Comparison — Visualizing Model Structures
+    🎯 Mini-Quiz
+    🏋️ Assignments
+      Assignment 3.1: CNN Filter Visualisation
+      Assignment 3.2: LSTM for Sentiment Analysis
+      Assignment 3.3: Build a Mini-Language Model
+    📖 Further Reading
+      Essential
+      Papers
+      Interactive Tools
+    💡 Glossary — Day 3
+    ⚡ Day 3 Summary
+    🔗 Day 4 Preview — The Big One
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today you will:

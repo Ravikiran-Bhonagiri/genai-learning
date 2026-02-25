@@ -26,6 +26,38 @@ This project consolidates your Week 4 API skills: Omni-modal API usage, Cloud SD
 **Estimated Time:** 12-15 Hours
 
 ---
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day Concepts))
+    🚀 1. Project Overview & Theological Underpinnings
+      1.1 The Shift from Fragmented to Native Multimodality
+    📋 2. Detailed Table of Contents
+    🏗️ 3. Advanced Multimodal Pipeline Design <a name=architecture-design></a>
+      The 2025 Native Pipeline Flow
+      Architectural Decisions Justified
+    💸 4. Deep Dive: Context Caching Economics <a name=math-caching></a>
+    💻 5. Prerequisites & SDK Environment Setup <a name=prerequisites></a>
+    🧠 6. Phase 1: Defining the Structured Output Persona <a name=phase-1></a>
+    🎯 7. Phase 2: Building the Core Inference Engine <a name=phase-2></a>
+    🖥️ 8. Phase 3: Building the Streamlit Video Uploader App <a name=phase-3></a>
+    📖 9. Expert Masterclass: Advanced Video Chunking Strategies <a name=masterclass></a>
+      9.1 The Masterclass Architecture:
+    🗃️ 10. Mastering the Gemini File API Endpoints <a name=file-api></a>
+      10.1 Listing Files
+      10.2 Deleting Files
+    🛠️ 11. Troubleshooting & API Errors <a name=troubleshooting></a>
+    🎓 12. Submission & Grading Rubric <a name=grading></a>
+      Grading Criteria 100 Points Total
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 
 ## 📋 2. Detailed Table of Contents
 1.  [Project Overview \& Theological Underpinnings](#overview)

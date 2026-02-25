@@ -3,6 +3,45 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 15: Embeddings & Vector Databases 🔢))
+    📚 Section 1: What Are Embeddings?
+      1.1 From Words to Numbers
+      1.2 The Semantic Space
+      1.3 Use Cases for Embeddings
+    📚 Section 2: Embedding Models
+      2.1 Major Embedding Models
+      2.2 Creating Embeddings
+      2.3 Sentence Transformers Free Alternative
+    📚 Section 3: Similarity Metrics
+      3.1 Cosine Similarity
+      3.2 Which Metric to Use?
+    📚 Section 4: Vector Databases
+      4.1 Why Not Just Use NumPy?
+      4.2 ChromaDB — Local Development
+      4.3 FAISS — High Performance
+      4.4 LangChain Vector Store Integration
+    💻 Full Lab: Semantic Search Engine
+    🧠 Quiz: Day 15
+    📊 Key Takeaways
+    📖 Further Reading
+    🔄 Whats Next: Day 16 Preview
+    Section 6: FAISS In Depth
+      6.1 FAISS Index Types Compared
+      6.2 Filtered Vector Search
+      6.3 Persistent ChromaDB with Multiple Collections
+    Section 7: Embedding Models Compared
+      7.1 Benchmark: OpenAI vs Sentence-Transformers
+      7.2 Choosing the Right Embedding Model
+    Extended Lab: Semantic Search Engine
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

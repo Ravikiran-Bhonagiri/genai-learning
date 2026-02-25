@@ -3,6 +3,47 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 13: Output Parsing & Structured Data 🗂️))
+    📚 Section 1: The Unstructured Output Problem
+      1.1 Why Free-Form Text Isnt Enough for Applications
+      1.2 Three Approaches to Structured Output
+    📚 Section 2: Prompt-Based JSON Extraction
+      2.1 The Basic Approach
+      2.2 OpenAI Structured Outputs JSON Mode
+      2.3 OpenAI Structured Outputs with Schema Strictest
+    📚 Section 3: LangChain Output Parsers
+      3.1 StrOutputParser
+      3.2 JsonOutputParser
+      3.3 PydanticOutputParser — Full Validation
+      3.4 Output Fixing Parser — Auto-Retry
+      3.5 RetryOutputParser — Retry with Context
+    📚 Section 4: Complex Information Extraction
+      4.1 Multi-Entity Extraction
+    💻 Full Lab: Resume & Invoice Parser
+    🧠 Quiz: Day 13 — Output Parsing
+    📊 Key Takeaways
+    📖 Further Reading
+    🔄 Whats Next: Day 14 Preview
+    Section 6: Advanced Output Parsers
+      6.1 Custom Pydantic Output Parsers
+      6.2 Multi-Entity Extraction
+    Section 7: Output Parsing Error Handling
+      7.1 OutputFixingParser  Self-Healing Outputs
+      7.2 RetryOutputParser  Regenerate on Failure
+      7.3 Streaming with Structured Output
+    Section 8: Real-World Parser Patterns
+      8.1 CSV Table Extraction
+      8.2 Hierarchical Document Parser
+    Capstone: Universal Document Intelligence System
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

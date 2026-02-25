@@ -3,6 +3,53 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 19: LoRA & PEFT — Efficient Fine-Tuning ⚡))
+    📚 Section 1: The Full Fine-Tuning Problem
+      1.1 Why Full Fine-Tuning Is Challenging
+      1.2 PEFT: Parameter-Efficient Fine-Tuning
+    📚 Section 2: LoRA — Low-Rank Adaptation
+      2.1 The Mathematical Insight
+      2.2 LoRA From Scratch
+      2.3 LoRA with PEFT Library
+    📚 Section 3: QLoRA — 4-Bit Quantization + LoRA
+      3.1 Quantization Reduces Memory Further
+      3.2 Full QLoRA Training Script for Colab/GPU
+    📚 Section 4: Other PEFT Methods
+      4.1 Prompt Tuning
+      4.2 Prefix Tuning
+      4.3 PEFT Method Comparison
+    🧠 Quiz: Day 19
+    📊 Key Takeaways
+    📚 Section 5: LoRA Rank Selection
+      5.1 Understanding Rank
+      5.2 Rank Selection Guidelines
+      5.3 Rank Sweep Experiment
+    📚 Section 6: DoRA — Weight-Decomposed LoRA
+      6.1 DoRA vs LoRA
+    📚 Section 7: Production LoRA Serving
+      7.1 Load and Use a Saved LoRA Adapter
+      7.2 Merging LoRA for Zero-Overhead Inference
+      7.3 Multi-Adapter Hot-Swapping
+    📚 Section 8: LoRA Hyperparameter Reference
+    🎯 Day 19 Extended Lab: LoRA Rank Ablation Study
+    Section 9: LoRA in Practice — End-to-End Workflow
+      9.1 Preparing Custom Instruction Datasets
+      Instruction:
+      Input:
+      Response:
+      Instruction:
+      Response:
+      9.2 LoRA Training with Callbacks
+      9.3 Evaluating Fine-Tuned Models
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

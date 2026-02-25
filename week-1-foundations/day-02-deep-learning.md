@@ -26,6 +26,52 @@ Today you're going to understand *exactly* how this works — starting from a si
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 02 — Deep Learning Foundations: The Engine Beneath the Magic))
+    🤔 Start With a Puzzle
+    📚 Part 1: The Neuron — Where It All Began 30 min
+      2.1 A Quick Trip Inside Your Head
+      2.2 The Artificial Neuron — Math First, Code Second
+      2.3 Activation Functions — A Field Guide
+      2.4 Neural Network Architecture — Stacking Neurons
+    📚 Part 2: How Networks Learn — The Training Loop 45 min
+      2.5 The Four Steps of Learning
+      2.6 The Loss Function — Quantifying Failure
+      2.7 Backpropagation — The Genius Algorithm
+      2.8 Gradient Descent — Navigating the Loss Landscape
+      2.9 Optimizers — Beyond Basic Gradient Descent
+    📚 Part 3: Overfitting — The Biggest Practical Challenge 20 min
+      2.10 The Overfitting Problem
+      2.11 Six Weapons Against Overfitting
+    📚 Part 4: Key Hyperparameters — The Art of Model Configuration 15 min
+      2.12 Hyperparameter Reference Card
+    💻 Lab Time: Build Neural Networks From Scratch 90 min
+      Lab 2.1: A Neuron From Pure Math
+      Lab 2.2: A Neural Network From Scratch
+      Lab 2.3: Neural Networks in PyTorch
+      Lab 2.4: Visualizing Gradient Descent
+      Lab 2.5: Diagnosing Your Model — Training Curves
+    🎯 Mini-Quiz
+    🏋️ Assignments
+      Assignment 2.1: NumPy Neural Network Extension
+      Assignment 2.2: Activation Function Experiment
+      Assignment 2.3: Early Stopping Implementation
+      Assignment 2.4: Debug the Broken Network
+    📖 Further Reading
+      Must-Read Core Concepts
+      Papers That Changed Everything
+      Interactive Visualizations
+    💡 Glossary — Day 2
+    ⚡ Day 2 Summary
+    🔗 Day 3 Preview
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today you will:

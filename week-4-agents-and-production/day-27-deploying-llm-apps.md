@@ -3,6 +3,44 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 27: Deploying LLM Apps 🚀))
+    📚 Section 1: FastAPI LLM Backend
+      1.1 Project Structure
+      1.2 Configuration config.py
+      1.3 Pydantic Request/Response Models models.py
+      1.4 LLM Service llm_service.py
+      1.5 Main Application main.py
+    📚 Section 2: Docker Containerization
+      2.1 Dockerfile
+      2.2 docker-compose.yml
+      2.3 requirements.txt
+      2.4 Build and Run
+    📚 Section 3: Deploy to Cloud
+      3.1 Deploy to Railway Easiest
+      3.2 Deploy to Render
+      3.3 Environment Variables Checklist
+    🧠 Quiz: Day 27
+    📊 Key Takeaways
+    Section 6: Production Deployment Patterns
+      6.1 Zero-Downtime Deployment with Health Checks
+      6.2 Kubernetes Deployment Configuration
+      6.3 Circuit Breaker Pattern
+    Section 7: Monitoring & Alerting
+      7.1 Prometheus Metrics Integration
+    Section 8: Advanced API Design
+      8.1 WebSocket for Real-time Chat
+      8.2 Background Task Processing
+      8.3 Rate Limiting and Authentication
+    Section 9: LangServe – Serving LangChain as REST API
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

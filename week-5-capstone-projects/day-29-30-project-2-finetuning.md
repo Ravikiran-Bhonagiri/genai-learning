@@ -23,6 +23,39 @@ This project proves you can align an open-source model to specifically reject po
 **Estimated Time:** 20-25 Hours (Includes model training on Google Colab/Kaggle and Deployment)
 
 ---
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day Concepts))
+    🚀 1. Project Overview & Theological Underpinnings
+      1.1 The SFT vs ORPO Paradigm Shift
+    📋 2. Comprehensive Table of Contents
+    🏗️ 3. Advanced Architecture Design <a name=architecture-design></a>
+      Architectural Component Diagram
+      System Constraints
+    🧮 4. Deep Dive: The Mathematics of QLoRA <a name=math-qlora></a>
+      4.1 Low-Rank Adaptation LoRA
+      4.2 Quantization The Q in QLoRA
+    ⚖️ 5. Deep Dive: The Mathematics of ORPO <a name=math-orpo></a>
+      5.1 The ORPO Objective Function
+    💻 6. Environment Prep & The Unsloth Advantage <a name=prerequisites></a>
+      6.1 What is Unsloth?
+      6.2 Installation Protocol Inside your Jupyter/Colab Notebook
+    🛠️ 7. Phase 1: Preference Dataset Engineering <a name=phase-1></a>
+      7.1 Dataset Construction Script
+    ⚙️ 8. Phase 2: 4-Bit Loading & LoRA Targeting <a name=phase-2></a>
+    🏃‍♂️ 9. Phase 3: The ORPO Training Loop Assembly <a name=phase-3></a>
+    🚀 10. Phase 4: vLLM Adapter Deployment Local Machine <a name=phase-4></a>
+    🖥️ 11. Phase 5: Building the Streamlit Evaluation UI <a name=phase-5></a>
+    🛠️ 12. Troubleshooting Memory Errors OOM <a name=troubleshooting></a>
+    🎓 13. Submission & Grading Rubric <a name=grading></a>
+      Grading Criteria 100 Points Total
+```
+
+
+---
+
 
 ## 📋 2. Comprehensive Table of Contents
 1.  [Project Overview \& Theological Underpinnings](#overview)

@@ -4,6 +4,38 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 08 — Working with LLM APIs at Scale))
+    📚 Theory 45 min
+      8.1 LLM API Architecture
+      8.2 API Rate Limits — Understanding the Constraints
+      8.3 Cost Optimization Strategies
+      8.4 Async vs Sync — When to Use Which
+    💻 Lab 1: Production API Client 60 min
+      Lab 8.1: Robust OpenAI Client with All Features
+      Lab 8.2: Multi-Provider Unified Client
+      Lab 8.3: Building a Request Queue for High-Volume Processing
+      Lab 8.4: Cost Tracking Dashboard
+    🎯 Quiz 10 Questions
+    🏋️ Assignments
+      Assignment 8.1: Production Chatbot Backend
+      Assignment 8.2: Parallel Document Processor
+      Assignment 8.3: Model Router
+    📖 Further Reading
+    🔗 Next Day Preview
+    Section 8: Local LLMs with Ollama 2025 Update
+      8.1 Why Run Local LLMs?
+      8.2 Installing and Using Ollama
+      8.3 Using Ollama via Python API
+      8.4 Integrating Ollama with LangChain
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of Day 8, you will:

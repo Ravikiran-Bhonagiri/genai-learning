@@ -3,6 +3,44 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 18: Fine-Tuning Basics 🎯))
+    📚 Section 1: Fine-Tuning vs. Prompting vs. RAG
+      1.1 The Decision Framework
+      1.2 When Each Approach Wins
+      1.3 Fine-Tuning Economics
+    📚 Section 2: Dataset Preparation
+      2.1 Data Formats
+      2.2 Creating a Fine-Tuning Dataset
+      2.3 Loading from Hugging Face Hub
+    📚 Section 3: Fine-Tuning GPT-2
+      3.1 Setup
+      3.2 The Hugging Face Trainer API
+    📚 Section 4: OpenAI Fine-Tuning API
+    🧠 Quiz: Day 18
+    📊 Key Takeaways
+    📚 Section 5: Advanced Training Techniques
+      5.1 Learning Rate Schedules
+      5.2 Gradient Accumulation for Small GPU Memory
+      5.3 Preventing Overfitting
+    📚 Section 6: Data Quality & Dataset Construction
+      6.1 Why Data Quality Beats Data Quantity
+      6.2 Automatic Dataset Quality Filtering
+      6.3 Generating Synthetic Training Data
+    📊 Fine-Tuning Checklist
+    🎯 Extended Lab: Domain Expert Chatbot
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

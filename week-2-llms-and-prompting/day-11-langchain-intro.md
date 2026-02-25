@@ -3,6 +3,58 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 11: LangChain Introduction 🔗))
+    📚 Section 1: Why LangChain?
+      1.1 The Problem LangChain Solves
+      1.2 LangChain Architecture
+      1.3 Core Abstractions
+    📚 Section 2: Installation & Setup
+    📚 Section 3: LangChain Expression Language LCEL
+      3.1 What is LCEL?
+      3.2 Your First LCEL Chain
+      3.3 The Runnable Interface
+      3.4 RunnableLambda — Custom Steps
+    📚 Section 4: Working with Documents
+      4.1 Document Loaders
+      4.2 Text Splitters
+    📚 Section 5: Chains — The Heart of LangChain
+      5.1 Sequential Chains
+      5.2 Conditional Routing
+    💻 Full Lab: Document Summarization System
+    Executive Summary 2-3 sentences
+    Key Points 5-8 bullet points, most important across all sections
+    Key Conclusions
+    Action Items if applicable
+    🎯 Mini Project: Research Paper Summarizer
+    🧠 Quiz: Day 11 — LangChain Introduction
+    📊 Key Takeaways
+    📖 Further Reading
+      Official Documentation
+      Key Blog Posts
+    🔄 Whats Next: Day 12 Preview
+    Section 6: Advanced LCEL Patterns
+      6.1 RunnableParallel  Execute Multiple Chains at Once
+      6.2 RunnableWithFallbacks  Graceful Degradation
+      6.3 Caching Responses
+      6.4 Streaming with Callbacks
+    Section 7: Prompt Templates in Depth
+      7.1 Few-Shot Prompt Templates
+      7.2 Dynamic Few-Shot Selection Semantic Similarity
+      7.3 Prompt Composition
+    Section 8: Error Handling & Debugging Chains
+      8.1 Inspecting Chain Internals
+      8.2 Middleware  Logging Every Step
+      8.3 Retry Logic
+    Extended Project: Multi-Source Research Assistant
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

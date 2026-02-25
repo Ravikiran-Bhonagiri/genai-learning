@@ -26,6 +26,56 @@ Today, you understand it completely.
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 04 — The Transformer Architecture: Attention Is All You Need))
+    🤔 The Paper That Changed Everything
+    📚 Theory 90 min
+      4.1 Why Transformers — The Motivation
+      4.2 The High-Level Architecture
+      4.3 Input Embeddings
+      4.4 Positional Encoding
+      4.5 Scaled Dot-Product Attention — The Core Mechanism
+      4.6 Multi-Head Attention
+      4.7 Masking in Attention
+      4.8 Position-wise Feed-Forward Network FFN
+      4.9 Layer Normalization & Residual Connections
+      4.10 Encoder vs Decoder in Detail
+      4.11 Output: Linear + Softmax
+      4.12 Counting Transformer Parameters
+    💻 Lab 1: Transformer from Scratch in PyTorch 90 min
+      Lab 4.1: Self-Attention Implementation
+      Lab 4.2: Positional Encoding
+      Lab 4.3: Complete Transformer Block
+      Lab 4.4: Visualizing Attention Patterns
+    🧪 Lab 5: Training the Transformer on a Toy Task
+    📝 Detailed Summary of Key Formulas
+    🎯 Mini-Quiz 10 Questions
+    🏋️ Assignments
+      Assignment 4.1: Attention Visualization Intermediate
+      Assignment 4.2: Transformer Ablation Study Advanced
+      Assignment 4.3: Custom Positional Encoding Expert
+    📖 Further Reading & Resources
+      Papers Essential
+      Blog Posts
+      Videos
+      Code Resources
+    🎯 Extended Mini-Quiz — Test Your Transformer Understanding
+    🏋️ Assignments
+      Assignment 4.1: Attention From Scratch
+      Assignment 4.2: Encoder-Only vs Decoder-Only
+      Assignment 4.3: Scale and Parameters
+      Assignment 4.4: Build a Mini Sentiment Classifier
+    💡 Glossary — Day 4
+    ⚡ Day 4 Summary
+    🔗 Day 5 Preview
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today you will:

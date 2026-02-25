@@ -28,6 +28,54 @@ We also tackle **tokenization algorithms** — the unglamorous but surprisingly 
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 07 — The LLM Landscape: Know Your Models))
+    🤔 The Most Important Question Youll Ask Every Day
+    📚 Theory — Part 1: The LLM Family Tree 45 min
+      7.1 Major LLM Families in 2025
+      7.2 Mixture of Experts MoE — Explained
+      7.3 Model Sizes and Hardware Requirements
+    📚 Theory — Part 2: Tokenization Algorithms 45 min
+      7.4 Why Tokenization Matters
+      7.5 Byte Pair Encoding BPE — Used by GPT-2/3/4
+      7.6 WordPiece — Used by BERT
+      7.7 SentencePiece — Used by T5, LLaMA, Gemma
+      7.8 Unigram Language Model — Used by T5, XLNet
+      7.9 Benchmarks and Model Evaluation
+      7.10 Choosing the Right Model — Decision Framework
+    💻 Labs 90 min
+      Lab 7.1: Tokenizer Deep Dive
+      Lab 7.2: Reading and Interpreting Model Cards
+      Lab 7.3: Running Models Locally with Ollama
+      Lab 7.4: Comparing 3 LLMs on the Same Task
+    🎯 Quiz 10 Questions
+    🏋️ Assignments
+      Assignment 7.1: Build a Model Comparison Dashboard
+      Assignment 7.2: Tokenization Cost Calculator
+      Assignment 7.3: LLM Benchmark Tracker
+    📚 Key Takeaways — Week 1 Summary
+    📖 Further Reading
+      Model Documentation
+      Tokenization Papers
+      Benchmark Resources
+    🔗 Next Week Preview
+    🎯 Extended Mini-Quiz — LLM Landscape & Tokenization
+    🏋️ Assignments
+      Assignment 7.1: Build a Model Selection Tool
+      Assignment 7.2: Tokenizer Forensics
+      Assignment 7.3: Benchmark a Model on Your Own Data
+      Assignment 7.4: Ollama Local Setup
+    💡 Glossary — Day 7
+    ⚡ Week 1 Complete — What Youve Built
+    🚀 Week 2 Preview: LLMs & Prompt Engineering
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today you will:

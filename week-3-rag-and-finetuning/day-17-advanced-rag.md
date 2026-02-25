@@ -3,6 +3,47 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 17: Advanced RAG Patterns 🚀))
+    📚 Section 1: Why Basic RAG Falls Short
+      1.1 Common Failures in Naive RAG
+    📚 Section 2: HyDE — Hypothetical Document Embeddings
+      2.1 The Insight
+      2.2 Comparing Standard vs HyDE Retrieval
+    📚 Section 3: Multi-Query Retrieval
+      3.1 Generate Multiple Query Variants
+    📚 Section 4: Contextual Compression
+      4.1 Extract Only the Relevant Part
+    📚 Section 5: Reranking with Cross-Encoders
+      5.1 Two-Stage Retrieval: Fast Recall + Precise Re-ranking
+    📚 Section 6: MMR — Maximum Marginal Relevance
+      6.1 Diversity in Retrieval
+    💻 Full Lab: Advanced RAG Pipeline
+    📚 Section 7: Evaluating RAG with RAGAS
+    🧠 Quiz: Day 17
+    📊 Key Takeaways
+    Section 6: Contextual Compression & Reranking
+      6.1 Contextual Compression Retriever
+      6.2 Cross-Encoder Reranking Cohere / Local
+      6.3 Local Reranking with Cross-Encoders
+    Section 7: Multi-Query Retrieval
+    Section 8: HyDE  Hypothetical Document Embeddings
+    Section 9: Adaptive RAG  Routing Queries
+    Extended Lab: Complete Advanced RAG Pipeline
+    Section 8: Advanced LlamaIndex RAG Patterns 2025 Update
+      8.1 The Lost in the Middle Problem & Postprocessing
+      8.2 Semantic Chunking Hierarchical Node Parsing
+      8.3 RAG with Structured Tabular Data Pandas/SQL
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

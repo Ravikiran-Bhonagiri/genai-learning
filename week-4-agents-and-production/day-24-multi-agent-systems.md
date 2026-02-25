@@ -3,6 +3,34 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 24: Multi-Agent Systems 🤝))
+    📚 Section 1: Why Multiple Agents?
+      1.1 Limits of a Single Agent
+      1.2 The Multi-Agent Pattern
+    📚 Section 2: Building a Multi-Agent System from Scratch
+      2.1 LangGraph Multi-Agent Supervisor
+    📚 Section 3: CrewAI — High-Level Multi-Agent Framework
+      3.2 CrewAI Hierarchical Process
+    🧠 Quiz: Day 24
+    📊 Key Takeaways
+    Section 6: LangGraph Multi-Agent Patterns
+      6.1 Supervisor-Worker Architecture
+      6.2 Agent Communication Protocols
+    Section 7: CrewAI for Role-Based Agents
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

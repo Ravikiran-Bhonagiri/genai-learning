@@ -3,6 +3,47 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 16: RAG Fundamentals 📑))
+    📚 Section 1: RAG Architecture
+      1.1 What Is RAG?
+      1.2 Why RAG?
+      1.3 When NOT to Use RAG
+    📚 Section 2: Document Ingestion Pipeline
+      2.1 Setup
+      2.2 Loading Documents from Multiple Sources
+      2.3 Chunking Strategies
+    How Retrieval Works
+      Similarity Search
+    How Generation Works
+      2.4 Building the Vector Index
+    📚 Section 3: The RAG Chain
+      3.1 Simple RAG Chain
+      3.2 RAG with Conversation History
+    💻 Full Lab: PDF Q&A System
+    🧠 Quiz: Day 16
+    📊 Key Takeaways
+    📖 Further Reading
+    🔄 Whats Next: Day 17 Preview
+    Section 6: Production RAG Architecture
+      6.1 The Complete RAG Pipeline in Detail
+      6.2 Multi-Document RAG with Source Tracking
+      6.3 Asynchronous RAG for Production
+    Section 7: Evaluation & Quality Control
+      7.1 RAG Quality Metrics
+    Extended Lab: Production RAG System
+    Section 8: LlamaIndex — The Premier Data Framework 2025 Update
+      8.1 Why LlamaIndex for RAG?
+      8.2 Building RAG in 5 Lines with LlamaIndex
+      8.3 Customizing the Storage Context
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:

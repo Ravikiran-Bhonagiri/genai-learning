@@ -18,6 +18,35 @@
 **Prerequisites:** Days 15–20
 
 ---
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 21: Week 3 Project — PDF Q&A Chatbot 📄))
+    🎯 Project Overview
+    🏗️ Architecture
+    🛠️ Setup
+    📁 rag_engine.py — Core RAG Logic
+    📁 evaluator.py — Evaluation Module
+    📁 app.py — Streamlit Interface
+    🚀 Running the App
+    📊 Grading Rubric
+      Bonus Challenges +20 pts each
+    📊 Week 3 Review
+    🔄 Whats Next: Week 4 Preview
+    Section 5: Production Features for the PDF Q&A System
+      5.1 Streaming Responses
+      5.2 Multi-PDF Support with Namespaces
+      5.3 Question Reformulation
+    Section 6: Streamlit App Architecture
+      6.1 Full Application Layout
+    Section 7: Testing & Quality Assurance
+      7.1 Testing Your PDF Q&A System
+```
+
+
+---
+
 
 ## 🏗️ Architecture
 

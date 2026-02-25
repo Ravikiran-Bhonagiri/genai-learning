@@ -12,6 +12,39 @@ By the end of this exhaustively detailed, Advanced 2025 deep dive, you will be a
 5.  **Understand 2025 Architectural Variants:** Contrast vanilla Multi-Head Attention against grouped-query attention (GQA), Rotary Positional Embeddings (RoPE), and SwiGLU activation functions that power Llama-3 and Mistral.
 
 ---
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 6: Transformer Architecture Deep Dive))
+    📚 1. Learning Objectives
+    🧠 2. Deep Dive Theory: The Structural Anatomy of a Transformer
+      2.1 The Two Halves: Encoder vs. Decoder
+      2.2 The Journey of a Single Token Vector
+    🔍 3. Visualizations and Mathematical Deep Dives
+      Multi-Head vs Single-Head
+      The Softmax Temperature Equation Generation Phase
+    💻 4. Code Lab: Building the Scaled Dot-Product Engine
+      The Objective
+    🏗️ 5. Mini Project: Visualizing the Attention Matrix
+    📝 6. Architectural Benchmarks & Validation Quiz
+    📊 7. Key Takeaways Summary Matrix
+    📚 8. Further Reading & Academic Excursions
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 
 ## 🧠 2. Deep Dive Theory: The Structural Anatomy of a Transformer
 

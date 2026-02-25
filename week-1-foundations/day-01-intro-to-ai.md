@@ -20,6 +20,69 @@ But first, we need to understand: **What exactly IS Generative AI?** And how did
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 01 — Welcome to the Age of Generative AI))
+    📚 Part 1: The AI Hierarchy — Understanding the Family Tree 30 min
+      1.1 The Big Picture
+      1.2 Lets Understand What Each Layer Actually Does
+      1.3 A Brief History of AI Consciousness Check
+    🧩 Part 2: Discriminative vs. Generative Models — The Fundamental Divide 30 min
+      2.1 The Core Difference — An Analogy First
+      2.2 Side-by-Side Comparison
+      2.3 Wait — Can a Model Be Both?
+    🗺️ Part 3: The Generative Model Zoo 30 min
+      3.1 Large Language Models LLMs — The Dominant Force
+      3.2 Diffusion Models — The Image Generation Revolution
+      3.3 Generative Adversarial Networks GANs — The 2014 Revolution
+      3.4 Variational Autoencoders VAEs — The Latent Space Architects
+      3.5 Transformers for Generation — Sequence Superstars
+      3.6 State Space Models — The Newcomers
+      3.7 Your Mental Model: The Generation Taxonomy
+    🌍 Part 4: The GenAI Ecosystem — Whos Building What 20 min
+      4.1 Foundation Model Providers
+      4.2 Open-Source Model Ecosystem
+      4.3 The Framework Ecosystem
+    🚀 Part 5: Real-World Impact — GenAI Across Industries 20 min
+      5.1 Healthcare
+      5.2 Software Engineering
+      5.3 Legal
+      5.4 Education
+      5.5 Creative Industries
+      5.6 Financial Services
+    🤔 Part 6: The Big Questions — Ethics, Risk, and Responsibility 20 min
+      6.1 Hallucination — The Most Immediate Problem
+      6.2 Bias — Learned From Us, Amplified
+      6.3 Copyright and Intellectual Property
+      6.4 Labor Market Disruption
+      6.5 Environmental Cost
+    💻 Lab Time: Your First GenAI API Calls 60 min
+      🔧 Setup First
+      Lab 1.1: Your First OpenAI Call — Hello, GPT!
+      Lab 1.2: Understanding Messages — Multi-Turn Conversations
+      Lab 1.3: Exploring the Google Gemini API
+      Lab 1.4: The Grand Model Comparison
+      Lab 1.5: Token Counting — Why It Matters
+    🎯 Mini-Quiz — Test Your Understanding
+    🏋️ Hands-On Assignments
+      Assignment 1.1: The Model Personality Experiment
+      Assignment 1.2: Build a Cost Calculator
+      Assignment 1.3: The Hallucination Test
+      Assignment 1.4: Research — One Industry Deep Dive
+    📖 Deep Reading List
+      Essential Read Before Day 2
+      Recommended
+      For the Curious Mind
+    💡 Key Terms Glossary — Day 1
+    ⚡ Day 1 Summary — What You Now Know
+    🔗 Whats Coming Tomorrow: Day 2 Preview
+```
+
+
+---
+
 ## 🎯 Learning Objectives — What You'll Know By Tonight
 
 By the end of today, you will be able to:

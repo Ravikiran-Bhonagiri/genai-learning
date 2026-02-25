@@ -19,6 +19,38 @@ This project integrates everything from Week 2 (Days 8–13) into a cohesive, pr
 **Prerequisites:** Days 8–13
 
 ---
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 14: Week 2 Project — Personal AI Assistant 🤖))
+    🎯 Project Overview
+    🏗️ Architecture Overview
+    🛠️ Setup
+    📁 models.py — Data Models
+    📁 memory_manager.py — Persistent Memory
+    📁 assistant.py — Core AI Logic
+    📁 app.py — Streamlit Interface
+    🚀 Running the Application
+    🧪 Testing Your Application
+      Test Script
+    📊 Grading Rubric
+      Bonus Challenges +20 pts each
+    🔍 Common Issues & Solutions
+    📊 Week 2 Review: What Youve Built
+    🔄 Whats Next: Week 3 Preview
+    Section 7: Advanced Project Patterns
+      7.1 Stateful Multi-Step Pipelines
+      7.2 Critique-and-Revise Pattern
+      7.3 Hierarchical Task Decomposition
+    Section 8: Error Handling & Edge Cases
+      8.1 Input Validation Before Chains
+    Extended Lab: Complete AI Assistant
+```
+
+
+---
+
 
 ## 🏗️ Architecture Overview
 

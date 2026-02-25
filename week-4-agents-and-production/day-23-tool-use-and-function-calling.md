@@ -3,6 +3,37 @@
 
 ---
 
+## 🧠 Concept Map
+
+```mermaid
+mindmap
+  root((Day 23: Tool Use & Function Calling 🔧))
+    📚 Section 1: OpenAI Function Calling
+      1.1 What Is Function Calling?
+      1.2 Defining Function Schemas
+      1.3 The Function Calling Loop
+    📚 Section 2: Parallel Function Calling
+      2.1 Call Multiple Tools Simultaneously
+    📚 Section 3: Pydantic Tool Schemas Type-Safe
+    📚 Section 4: Structured Output Mode
+    💻 Full Lab: Smart Personal Assistant with Tools
+    🧠 Quiz: Day 23
+    📊 Key Takeaways
+    Section 6: Advanced Function Calling Patterns
+      6.1 Structured Outputs with json_schema Mode
+      6.2 Function Calling for Data Extraction Pipelines
+      6.3 Tool Chaining — Output as Input
+    Section 7: Production Function Calling
+      7.1 Rate-Limited Tool Execution
+      7.2 Caching Expensive Tool Calls
+    Section 8: OpenAI Assistants API
+      Extended Academic Appendix: Generative AI Complete Glossary
+      Extended Academic Appendix: Generative AI Complete Glossary
+```
+
+
+---
+
 ## 🎯 Learning Objectives
 
 By the end of today, you will:
