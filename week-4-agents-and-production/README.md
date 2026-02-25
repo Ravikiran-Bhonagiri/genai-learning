@@ -1,5 +1,7 @@
 # 🤖 Week 4: Building Autonomous Minds (Agents & Production)
 
+![Week 4 Conceptual Mindmap](../assets/week_4_agents_mindmap.png)
+
 What if an AI could do more than just generate text in a chat window? What if it could write code, test it, realize there is an error, browse the internet for the missing dependency, install it, and then rewrite the code until it succeeds? What if it could look at a massive corporate pie chart, organically read the text on it, and draw a strategic conclusion? 
 
 This week, we transcend chatbots. We are building **Agents**—active systems equipped with tools, dynamic memory, and the autonomy to act on the world. You will learn to architect and orchestrate multiple digital minds that can debate, collaborate, and execute complex workflows without any human intervention. 

@@ -1,5 +1,7 @@
 # 🗣️ Week 2: The Art of Speaking to Machines (Prompting)
 
+![Week 2 Conceptual Mindmap](../assets/week_2_prompting_mindmap.png)
+
 Last week, you looked inside the mind of the machine. This week, we learn to speak its language. 
 
 We aren't just talking about saying "please" to a chatbot or adding "think step by step" to the end of a sentence. We are elevating prompt engineering from a social media party trick to a rigorous, systematic software engineering discipline. 

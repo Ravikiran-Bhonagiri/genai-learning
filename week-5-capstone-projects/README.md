@@ -1,5 +1,7 @@
 # 🎓 The Sprint: Forging Your Legacy (Capstone Projects)
 
+![Week 5 Conceptual Mindmap](../assets/week_5_capstone_mindmap.png)
+
 You survived the brutal foundations of Deep Learning. You mastered the arcane art of prompts. You conquered high-dimensional vector space, and you unleashed autonomous, tool-wielding agents into the world. 
 
 Now, the training wheels come off. 

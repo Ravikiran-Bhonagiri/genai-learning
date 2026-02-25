@@ -1,5 +1,7 @@
 # 📚 Week 3: Giving AI a Memory (RAG & Fine-Tuning)
 
+![Week 3 Conceptual Mindmap](../assets/week_3_rag_mindmap.png)
+
 A model frozen in time is a model that becomes obsolete the day it finishes training. If an LLM doesn't know about yesterday's news, your private company codebase, or the secret recipe you invented this morning... how is it truly useful?
 
 This week, we solve the hallucination problem once and for all. We dissect two massive paradigm shifts that make AI enterprise-ready: 

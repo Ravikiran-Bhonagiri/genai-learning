@@ -1,5 +1,7 @@
 # 🧠 Week 1: Unlocking the Black Box (Foundations)
 
+![Week 1 Conceptual Mindmap](../assets/week_1_foundations_mindmap.png)
+
 Welcome to the very beginning of the AI revolution. 
 
 You've heard the buzz words echoed in boardrooms and tech blogs: *Neural Networks, Deep Learning, Attention, Transformers.* But do you know what they actually are beneath the hype? What actually happens when a billion parameters "think"? Do you know what the math looks like when a machine "learns" to see a pattern that no human ever could? 
